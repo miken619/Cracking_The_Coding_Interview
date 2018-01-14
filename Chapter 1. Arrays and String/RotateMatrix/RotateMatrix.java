@@ -30,6 +30,7 @@ public class RotateMatrix {
           image[j][last] = top;
         }
     }
+    
     return image;
   }
 }
